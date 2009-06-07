@@ -8,6 +8,6 @@ Depends: R.methodsS3
 Suggests: R.oo, R.utils, princurve
 Description: Methods for microarray analysis that take basic data types such as matrices and lists of vectors.  These methods can be used standalone, be utilized in other packages, or be wrapped up in higher-level classes.
 License: LGPL
-biocViews: Infrastructure, Microarray, OneChannel, TwoChannel, Preprocessing
+biocViews: Infrastructure, Microarray, OneChannel, TwoChannel, MultiChannel, Preprocessing
 URL: http://www.braju.com/R/
 LazyLoad: TRUE
