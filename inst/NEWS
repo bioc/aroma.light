@@ -1,6 +1,10 @@
 Package: aroma.light
 ====================
 
+Version: 1.18.0 [2010-10-18]
+o The version number was bumped for the Bioconductor release version.  
+
+
 Version: 1.17.6 [2010-10-08]
 o Now findPeaksAndValleys() returns a object of class PeaksAndValleys,
   which extends data.frame.
