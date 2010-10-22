@@ -1,6 +1,12 @@
 Package: aroma.light
 ====================
 
+Version: 1.18.2 [2010-10-22]
+o DOCUMENTATION: Minor clarifications to the help page on
+  "1. Calibration and Normalization".  This page is now also
+  referenced in help("calibrateMultiscan").
+
+
 Version: 1.18.1 [2010-10-18]
 o These updates were supposed to be in v1.17.7, but we forgot
   to commit them to the BioC repository before the new BioC release.
