@@ -1,6 +1,10 @@
 Package: aroma.light
 ====================
 
+Version: 1.30.2 [2013-05-20]
+o CRAN POLICY: Now all Rd \usage{} lines are at most 90 characters long.
+
+
 Version: 1.30.1 [2013-04-18]
 o Now backtransformPrincipalCurve() preserves dimension names.
 o BUG FIX: backtransformPrincipalCurve() gave an error if the
