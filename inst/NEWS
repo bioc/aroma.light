@@ -1,6 +1,11 @@
 Package: aroma.light
 ====================
 
+Version: 1.30.5 [2013-09-25]
+o Backport from v1.31.5: normalizeTumorBoost() now uses which(),
+  which also removes one dependency on 'R.utils'.
+
+
 Version: 1.30.4 [2013-09-25]
 o Backport from v1.31.4: Now package explicitly imports what it 
   needs from matrixStats.
