@@ -3,6 +3,9 @@
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 import("R.methodsS3")
 
+importFrom("matrixStats", "weightedMedian")
+importFrom("matrixStats", "weightedMedian.default")
+
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # EXPORTS

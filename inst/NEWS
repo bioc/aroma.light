@@ -1,6 +1,17 @@
 Package: aroma.light
 ====================
 
+Version: 1.30.4 [2013-09-25]
+o Backport from v1.31.4: Now package explicitly imports what it 
+  needs from matrixStats.
+
+
+Version: 1.30.3 [2013-09-25]
+o Backport from v1.31.3: Removal of all gc() calls and removal of
+  variables is now faster.
+o Removed one stray str() debug output in robustSmoothSpline().
+
+
 Version: 1.30.2 [2013-05-20]
 o CRAN POLICY: Now all Rd \usage{} lines are at most 90 characters long.
 
