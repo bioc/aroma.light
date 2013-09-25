@@ -1,5 +1,5 @@
 Package: aroma.light
-Version: 1.30.4
+Version: 1.30.5
 Depends: R (>= 2.10.0), matrixStats (>= 0.5.3)
 Imports: R.methodsS3 (>= 1.4.2)
 Suggests: R.oo (>= 1.9.9), R.utils (>= 1.16.2), princurve (>= 1.1-11)
