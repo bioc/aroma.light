@@ -1,3 +1,12 @@
+# Version 3.31.1 [2023-06-30]
+
+## Documentation
+
+ * Update redirecting and broken URLs.
+
+ * Fix `R CMD check` notes on "Escaped LaTeX specials: \&".
+ 
+
 # Version 3.31.0 [2023-04-25]
 
 ## Notes
@@ -129,7 +138,7 @@
    updated to make use of new `principcal_curve` class instead of
    deprecated `principcal.curve` class.  This update "should not"
    affect the results, but see
-   <https://github.com/dynverse/princurve/issues/8> for information of
+   <https://github.com/rcannood/princurve/issues/8> for information of
    what has changed in the **princurve** package in this respect.
 
 
