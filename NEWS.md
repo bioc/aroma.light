@@ -1,4 +1,4 @@
-# Version (development version)
+# Version 3.31.1 [2023-06-30]
 
 ## Documentation
 
