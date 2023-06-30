@@ -7,20 +7,12 @@
  * Fix `R CMD check` notes on "Escaped LaTeX specials: \&".
  
 
-# Version 3.32.0 [2023-04-25]
+# Version 3.31.0 [2023-04-25]
 
 ## Notes
 
  * The version number was bumped for the Bioconductor devel version,
    which is now Bioconductor 3.18 for R (>= 4.4.0).
-
-
-# Version 3.31.0 [2023-04-25]
-
-## Notes
-
- * The version number was bumped for the Bioconductor release version,
-   which is now Bioconductor 3.17 for R (>= 4.3.0).
 
 
 # Version 3.30.0 [2023-04-25]
